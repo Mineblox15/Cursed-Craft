@@ -1,2 +1,4 @@
-# Cursed-Craft---ResourcePack
-A Cursed Pack for Minecraft (MC 1.21.8)
+# Cursed-Craft-ResourcePack
+A Cursed Pack for Minecraft
+
+I will try to update as much as possible!
