@@ -1,4 +1,6 @@
 # Cursed-Craft
+<img width="505" height="85" alt="image" src="https://github.com/user-attachments/assets/97597ba4-9bae-4613-b4f0-3ef4b0316b5f" />
+
 **A Cursed Pack for Minecraft**
 
 I will try to update as much as possible!
