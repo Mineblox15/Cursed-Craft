@@ -11,7 +11,7 @@ Just go to *Releases* and download the lastest ResourcePack or Modpack (If you w
 
 # Current Supported Minecraft Version
 
-JAVA: 1.21.7 - 1.21.8
+JAVA: 1.21.6 - 1.21.8
 
 BEDROCK: *NOT SUPPORTED*
 
