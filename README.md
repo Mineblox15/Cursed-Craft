@@ -9,11 +9,11 @@ I will try to update as much as possible!
 
 Just go to *Releases* and download the lastest ResourcePack or Modpack (If you want) and put that Resourcepack into your Resourcepack folder, For modpack you need to extract the zip and put the extracted file into your Version folder
 
-# Current Supported Minecraft Version
+# Current Supported Minecraft Edition
 
-JAVA: 1.21.6 - 1.21.8
+JAVA: *SUPPORTED!*
 
-BEDROCK: *NOT SUPPORTED*
+BEDROCK: *NOT SUPPORTED!*
 
 # Contact
 
